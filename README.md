@@ -42,4 +42,7 @@
 
 
 ## Projects
-- 
+- <a href="https://github.com/tendai-codes/Financial-Data-Analysis/tree/main">Financnial Data Analysis</a>
+- <a href="https://github.com/tendai-codes/Box-Office-Analysis/tree/main">Box Office Analysis</a>
+- <a href="https://github.com/tendai-codes/NBA-Player-Performance/tree/main">NBA Player Performance</a>
+- <a href="https://github.com/tendai-codes/World-Bank-Data-Exploration/tree/main">World Bank Data Exploration </a>
