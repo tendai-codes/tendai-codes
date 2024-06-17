@@ -8,17 +8,17 @@
 </p>
 
 ## Skills
-
+<p align="justify">
+    
 | Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Data cleaning, Data preprocessing, Statistical analysis, R, ggplot2, Data visualization, Performance metrics analysis, KPI analysis, Strategic decision-making          | <a href="https://github.com/tendai-codes/Financial-Data-Analysis/tree/main">Financnial Data Analysis</a>|
-| Data cleaning, Exploratory data analysis, R, ggplot2, Data visualization, Business intelligence, Trend analysis, Revenue performance analysis. | <a href="https://github.com/tendai-codes/Box-Office-Analysis/tree/main">Box Office Analysis</a>|
-| Data preprocessing, Data transformation, Python, Pyplot, Data visualization, Performance indicators analysis, Comparative analysis         | <a href="https://github.com/tendai-codes/NBA-Player-Performance/tree/main">NBA Player Performance</a>|
-| Data cleaning, Data wrangling, Exploratory data analysis, Python, Pandas, Seaborn, Data visualization, Correlation analysis, Policy analysis      | <a href="https://github.com/tendai-codes/World-Bank-Data-Exploration/tree/main">World Bank Data Exploration </a>|
+|-----------------------------------------------|----------------------------| 
+| 1. Data **cleaning**, Data **preprocessing**, Statistical analysis using **R programming**.<br> 2. **ggplot2** for Data visualization.<br> 3. Performance metrics analysis, **Strategic decision-making**, KPI analysis for data insights| <a href="https://github.com/tendai-codes/Financial-Data-Analysis/tree/main">Financnial Data Analysis</a>|
+|1. Data **cleaning** and Exploratory data analysis using **R programming**.<br> 2. **ggplot2** for Data visualization.<br> 3. **Business intelligence**, Trend analysis, **Revenue performance analysis** for data insights. | <a href="https://github.com/tendai-codes/Box-Office-Analysis/tree/main">Box Office Analysis</a>|
+| 1. Data **preprocessing** and Data ***transformation** using **Python**.<br> 2. Data **visualization** using  **Pyplot**. <br> 3.  **Performance indicator analysis** & Comparative analysis for data insights       | <a href="https://github.com/tendai-codes/NBA-Player-Performance/tree/main">NBA Player Performance</a>|
+| 1. Data **cleaning**, Data **wrangling**, Exploratory data analysis using **Python**. <br> 2. Data visualization using **Pandas** & **Seaborn**. <br> 3. Correlation analysis, **Policy analysis**     | <a href="https://github.com/tendai-codes/World-Bank-Data-Exploration/tree/main">World Bank Data Exploration </a>|
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -27,21 +27,8 @@
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <a href="https://www.udemy.com/certificate/UC-32d1eeb2-0446-4387-ab5d-b8cc4c131141/"><img src="https://img.shields.io/badge/-R%20Programming%20A--Z™:%20R%20For%20Data%20Science-FF0000?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
 
@@ -55,5 +42,4 @@
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- 
