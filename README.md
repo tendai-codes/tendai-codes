@@ -14,7 +14,7 @@
 | Data cleaning, Data preprocessing, Statistical analysis, R, ggplot2, Data visualization, Performance metrics analysis, KPI analysis, Strategic decision-making          | <a href="https://github.com/tendai-codes/Financial-Data-Analysis/tree/main">Financnial Data Analysis</a>|
 | Data cleaning, Exploratory data analysis, R, ggplot2, Data visualization, Business intelligence, Trend analysis, Revenue performance analysis. | <a href="https://github.com/tendai-codes/Box-Office-Analysis/tree/main">Box Office Analysis</a>|
 | Data preprocessing, Data transformation, Python, Pyplot, Data visualization, Performance indicators analysis, Comparative analysis         | <a href="https://github.com/tendai-codes/NBA-Player-Performance/tree/main">NBA Player Performance</a>|
-| Data cleaning, Data wrangling, Exploratory data analysis, Python, Pandas, Seaborn, Data visualization, Correlation analysis, Policy analysis      | <a href="https://github.com/tendai-codes/World-Bank-Data-Exploration/tree/mai">World Bank Data Exploration </a>|
+| Data cleaning, Data wrangling, Exploratory data analysis, Python, Pandas, Seaborn, Data visualization, Correlation analysis, Policy analysis      | <a href="https://github.com/tendai-codes/World-Bank-Data-Exploration/tree/main">World Bank Data Exploration </a>|
 
 
 ## Tools
