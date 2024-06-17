@@ -26,13 +26,13 @@
 </div>
 
 ## Certifications
-
 <div>
-<a href="https://www.udemy.com/certificate/UC-32d1eeb2-0446-4387-ab5d-b8cc4c131141/"><img src="https://img.shields.io/badge/-R%20Programming%20A--Z™:%20R%20For%20Data%20Science-FF0000?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
-<a href="https://www.udemy.com/certificate/UC-4dbe4613-a162-4ebe-b626-a722d38dfe87/"><img src="https://img.shields.io/badge/-Python%20A--Z™:%20Python%20For%20Data%20Science-FF0000?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VCMG4JJ46GNG"><img src="https://img.shields.io/badge/-Google%20Data%20Analytics-FF0000?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/9Q285DC3RY79"><img src="https://img.shields.io/badge/-Linear%20Regression%20with%20NumPy%20and%20Python-FF0000?&style=for-the-badge&logo=Coursera&logoColor=white" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/2T73BQ8M2AV3"><img src="https://img.shields.io/badge/-Visualise%20Financial%20Data%20in%20Tableau-FF0000?&style=for-the-badge&logo=Tableau&logoColor=white" /></a>
+<a href="https://www.udemy.com/certificate/UC-32d1eeb2-0446-4387-ab5d-b8cc4c131141/"><img src="https://img.shields.io/badge/-R%20Programming%20A--Z™:%20R%20For%20Data%20Science-FF0000?&style=for-the-badge&logo=R&logoColor=white" /></a>
+<a href="https://www.udemy.com/certificate/UC-4dbe4613-a162-4ebe-b626-a722d38dfe87/"><img src="https://img.shields.io/badge/-Python%20A--Z™:%20Python%20For%20Data%20Science-FF0000?&style=for-the-badge&logo=Python&logoColor=white" /></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VCMG4JJ46GNG"><img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/9Q285DC3RY79"><img src="https://img.shields.io/badge/-Coursera-2A73CC?&style=for-the-badge&logo=Coursera&logoColor=white" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/2T73BQ8M2AV3"><img src="https://img.shields.io/badge/-Coursera-2A73CC?&style=for-the-badge&logo=Coursera&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/a93cc5e2-ffbe-4cc0-95a2-8fbf4a2560f6/linked_in_profile"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /></a>
 </div>
 
 ## Projects
