@@ -1,13 +1,13 @@
-# Hello, I'm Tendai
+# Hello, I'm Tendai 👋🏾
 <a href="https://www.linkedin.com/in/tendai-sibanda)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## My Background
 
-I am a trained Biomedical Engineer with a robust background in education, driven by a passion for leveraging data to solve complex problems. These experiences have fuelled my ambition to delve deeper into data science. Explore my projects which showcase my journey thus far.
+<p align="justify">
+    I am a trained Biomedical Engineer with a robust background in education, driven by a passion for leveraging data to solve complex problems. These experiences have fueled my ambition to delve deeper into data science. Explore my projects which showcase my journey thus far.
+</p>
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -44,13 +44,13 @@ I am a trained Biomedical Engineer with a robust background in education, driven
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="https://www.udemy.com/certificate/UC-32d1eeb2-0446-4387-ab5d-b8cc4c131141/"><img src="https://img.shields.io/badge/-R%20Programming%20A--Z™:%20R%20For%20Data%20Science-FF0000?&style=for-the-badge&logo=R&logoColor=white" /></a>
+<a href="https://www.udemy.com/certificate/UC-32d1eeb2-0446-4387-ab5d-b8cc4c131141/"><img src="https://img.shields.io/badge/-R%20Programming%20A--Z™:%20R%20For%20Data%20Science-FF0000?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
 
-<a href="https://www.udemy.com/certificate/UC-4dbe4613-a162-4ebe-b626-a722d38dfe87/"><img src="https://img.shields.io/badge/-Python%20A--Z™:%20Python%20For%20Data%20Science-FF0000?&style=for-the-badge&logo=Python&logoColor=white" /></a>
+<a href="https://www.udemy.com/certificate/UC-4dbe4613-a162-4ebe-b626-a722d38dfe87/"><img src="https://img.shields.io/badge/-Python%20A--Z™:%20Python%20For%20Data%20Science-FF0000?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VCMG4JJ46GNG"><img src="https://img.shields.io/badge/-Google%20Data%20Analytics-FF0000?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 
-<a href="https://www.coursera.org/account/accomplishments/verify/9Q285DC3RY79"><img src="https://img.shields.io/badge/-Linear%20Regression%20with%20NumPy%20and%20Python-FF0000?&style=for-the-badge&logo=Python&logoColor=white" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/9Q285DC3RY79"><img src="https://img.shields.io/badge/-Linear%20Regression%20with%20NumPy%20and%20Python-FF0000?&style=for-the-badge&logo=Coursera&logoColor=white" /></a>
 
 <a href="https://www.coursera.org/account/accomplishments/verify/2T73BQ8M2AV3"><img src="https://img.shields.io/badge/-Visualise%20Financial%20Data%20in%20Tableau-FF0000?&style=for-the-badge&logo=Tableau&logoColor=white" /></a>
 
