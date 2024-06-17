@@ -1,5 +1,5 @@
 # Hello, I'm Tendai 👋🏾
-<a href="https://www.linkedin.com/in/tendai-sibanda)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tendai-sibanda"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## My Background
 
