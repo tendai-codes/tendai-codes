@@ -4,7 +4,7 @@
 ## My Background
 
 <p align="justify">
-    I am a trained Biomedical Engineer with a robust background in education, driven by a passion for leveraging data to solve complex problems. These experiences have fueled my ambition to delve deeper into data science. Explore my projects which showcase my journey thus far.
+    I am a trained Biomedical Engineer with a robust background in education spanning the last 6 years. I am driven by a passion for leveraging data to solve complex problems. These experiences have fueled my ambition to delve deeper into data science. Explore my projects which showcase my journey thus far.
 </p>
 
 ## Skills
