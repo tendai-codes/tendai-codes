@@ -13,10 +13,8 @@
     
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------| 
-| 1. Data **cleaning**, Data **preprocessing**, Statistical analysis using **R programming**.<br> 2. **ggplot2** for Data visualization.<br> 3. Performance metrics analysis, **Strategic decision-making**, KPI analysis for data insights| <a href="https://github.com/tendai-codes/Financial-Data-Analysis/tree/main">Financial Data Analysis</a>|
-|1. Data **cleaning** and Exploratory data analysis using **R programming**.<br> 2. **ggplot2** for Data visualization.<br> 3. **Business intelligence**, Trend analysis, **Revenue performance analysis** for data insights. | <a href="https://github.com/tendai-codes/Box-Office-Analysis/tree/main">Box Office Analysis</a>|
-| 1. Data **preprocessing** and Data **transformation** using **Python**.<br> 2. Data **visualization** using  **Pyplot**. <br> 3.  **Performance indicator analysis** & Comparative analysis for data insights       | <a href="https://github.com/tendai-codes/NBA-Player-Performance/tree/main">NBA Player Performance</a>|
-| 1. Data **cleaning**, Data **wrangling**, Exploratory data analysis using **Python**. <br> 2. Data visualization using **Pandas** & **Seaborn**. <br> 3. Correlation analysis, **Policy analysis**     | <a href="https://github.com/tendai-codes/World-Bank-Data-Exploration/tree/main">World Bank Data Exploration </a>|
+| 1. Data **cleaning**, Data **preprocessing**, Statistical analysis using **R programming**.<br> 2. **ggplot2** for Data visualization.<br> 3. Performance metrics analysis, **Strategic decision-making**, KPI analysis for data insights| <a href="https://github.com/tendai-codes/Data-Analysis.git"> Data Analysis</a>|
+|1. Data **cleaning** and Exploratory data analysis using **R programming**.<br> 2. **ggplot2** for Data visualization.<br> 3. **Business intelligence**, Trend analysis, **Revenue performance analysis** for data insights. | <a href="https://github.com/tendai-codes/Box-Office-Analysis/tree/main">Machine Learnin</a>|
 
 
 # 💻 Tech Stack:
