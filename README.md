@@ -5,16 +5,20 @@
 ## 💫 About Me:
 
 <p align="justify">
- I am a trained Biomedical Engineer with a robust background in education spanning the last 6 years. I am driven by a passion for leveraging data to solve complex problems. These experiences have fueled my ambition to delve deeper into data science. Explore my projects which showcase my journey thus far.
+I am a trained Biomedical Engineer with a robust background in education spanning the last six years. My passion for leveraging data to solve complex problems has led me to delve deeper into data science and machine learning. My journey includes analyzing financial data, uncovering performance trends, and building predictive models in domains like healthcare, business strategy, and market analysis. Explore my projects, which reflect my evolving skills in data analysis, machine learning, and statistical modeling.
 </p>
 
 ## Skills
 <p align="justify">
-    
-| Skills                                         | Associated Project         |
-|-----------------------------------------------|----------------------------| 
-| 1. Data **cleaning**, Data **preprocessing**, Statistical analysis using **R programming**.<br> 2. **ggplot2** for Data visualization.<br> 3. Performance metrics analysis, **Strategic decision-making**, KPI analysis for data insights| <a href="https://github.com/tendai-codes/Data-Analysis.git"> Data Analysis</a>|
-|1. Data **cleaning** and Exploratory data analysis using **R programming**.<br> 2. **ggplot2** for Data visualization.<br> 3. **Business intelligence**, Trend analysis, **Revenue performance analysis** for data insights. | <a href="https://github.com/tendai-codes/Box-Office-Analysis/tree/main">Machine Learnin</a>|
+ 
+| **Project Type**         | **Projects**                                                                                     | **Skills Learned**                                                                                                     | **Libraries Used**                                                                                                     |
+|--------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Data Analysis**         | 1. Financial Statement Analysis  <br> 2. Box Office Data Analysis  <br> 3. NBA Player Performance Analysis  <br> 4. Global Population Trends <br> 5. Asset Allocation & Statistical Data Analysis  <br> 6. Stocks Analysis & Visualization | - Data cleaning <br> - Data preprocessing <br> - Data transformation <br> - Statistical analysis <br> - Data visualization <br> - KPI analysis <br> - Comparative analysis | - R (ggplot2)  <br> - Python (Pandas, NumPy, Seaborn, Matplotlib, Pyplot) |
+| **Machine Learning**      | 1. Regression Models (Startup Profits, HR Salary Compensation) <br> 2. Breast Cancer Prediction <br> 3. Customer Segmentation <br> 4. Associate Rule Learning <br> 5. Reinforcement Learning | - Data preprocessing <br> - Feature scaling <br> - Model training and evaluation <br> - Predictive modeling <br> - Model validation | - Python (scikit-learn, Pandas, NumPy, Matplotlib, Seaborn) |
+
+## Projects
+- <a href="https://github.com/tendai-codes/Data-Analysis/tree/main">Data Analysis</a>
+- <a href="https://github.com/tendai-codes/Machine-Learning/tree/main">Machine Learning</a>
 
 
 # 💻 Tech Stack:
@@ -31,10 +35,6 @@
 <a href="https://www.credly.com/badges/a93cc5e2-ffbe-4cc0-95a2-8fbf4a2560f6/linked_in_profile"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /></a>
 </div>
 
-## Projects
-- <a href="https://github.com/tendai-codes/Financial-Data-Analysis/tree/main">Financnial Data Analysis</a>
-- <a href="https://github.com/tendai-codes/Box-Office-Analysis/tree/main">Box Office Analysis</a>
-- <a href="https://github.com/tendai-codes/NBA-Player-Performance/tree/main">NBA Player Performance</a>
-- <a href="https://github.com/tendai-codes/World-Bank-Data-Exploration/tree/main">World Bank Data Exploration </a>
+
 
 
