@@ -5,7 +5,7 @@
 ## 💫 About Me:
 
 <p align="justify">
-I am a trained Biomedical Engineer with a robust background in education spanning the last six years. My passion for leveraging data to solve complex problems has led me to delve deeper into data science and machine learning. My journey includes analyzing financial data, uncovering performance trends, and building predictive models in domains like healthcare, business strategy, and market analysis. Explore my projects, which reflect my evolving skills in data analysis, machine learning, and statistical modeling.
+I am a trained Biomedical Engineer with a robust background spanning the last six years. My passion for leveraging data to solve complex problems has led me to delve deeper into data science and machine learning. My journey includes analyzing financial data, uncovering performance trends, and building predictive models in domains like healthcare, business strategy, and market analysis. Explore my projects, which reflect my evolving skills in data analysis, machine learning, and statistical modeling.
 </p>
 
 ## Skills
