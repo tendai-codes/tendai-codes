@@ -55,17 +55,3 @@ https://github.com/tendai-codes/Machine-learning
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
-
-## Research Interests
-
-Graph-based transport modelling  
-Regenerative signalling systems  
-Statistical learning and numerical methods  
-Interpretable machine learning
-
----
-
-## Connect
-
-LinkedIn  
-https://www.linkedin.com/in/tendai-sibanda
