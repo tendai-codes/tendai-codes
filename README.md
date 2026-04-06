@@ -1,66 +1,26 @@
 # Hello, I'm Tendai 👋🏾
 
-Biomedical engineer working at the intersection of data analysis, machine learning, and computational modelling.  
-My work focuses on extracting structure from real-world datasets and building mathematically grounded models to explain complex systems.
-
-Recently, I have been developing deterministic simulation frameworks inspired by regenerative biology, alongside statistical learning pipelines for economic and behavioural datasets.
+Biomedical scientist with a quantitative focus on data analysis, machine learning, and computational modelling. This profile documents my programming journey and highlights the projects I have used to build skills in statistical analysis, mathematical thinking, and applied machine learning.
 
 ---
 
 ## Featured Projects
 
-### Graph Cross-Correction Simulation
-Deterministic modelling framework inspired by regenerative signalling transport processes.
+**Graph Cross-Correction Simulation**  
+Deterministic graph-based transport model inspired by regenerative signalling processes.  
+https://github.com/tendai-codes/graph-cross-correction-sim
 
-- built iterative diffusion-style correction model on graph structures
-- explored stability and convergence behaviour
-- implemented simulation-first experimentation workflow
-- demonstrates numerical reasoning and algorithm design
+**World Bank Unemployment Linear Algebra Project**  
+Matrix-based analysis of macroeconomic labour indicators using structured transformations.  
+https://github.com/tendai-codes/worldbank_unemployment_linear_algebra_project
 
-🔗 https://github.com/tendai-codes/graph-cross-correction-sim
+**Deep Learning Experiments**  
+Implementation and evaluation of neural architectures.  
+https://github.com/tendai-codes/DeepLearning
 
-
-### World Bank Unemployment Linear Algebra Project
-Matrix-based exploration of macroeconomic unemployment structure.
-
-- applied linear algebra techniques to economic indicators
-- analysed multivariate relationships between labour variables
-- implemented structured transformations for interpretability
-- bridges mathematics with applied policy data analysis
-
-🔗 https://github.com/tendai-codes/worldbank_unemployment_linear_algebra_project
-
-
-### Deep Learning Experiments
-Implementation-focused exploration of neural architectures.
-
-- regression and classification pipelines
-- recurrent neural network modelling
-- optimisation and evaluation workflows
-- emphasis on interpretability rather than black-box fitting
-
-🔗 https://github.com/tendai-codes/DeepLearning
-
-
-### Machine Learning Pipeline Collection
-Applied predictive modelling across finance, healthcare, and strategy datasets.
-
-Includes:
-
-- startup profitability prediction
-- breast cancer classification
-- customer segmentation
-- market basket optimisation
-- stock trend modelling
-
-Focus areas:
-
-- feature engineering
-- validation workflows
-- model comparison
-- statistical interpretation of outputs
-
-🔗 https://github.com/tendai-codes/Machine-learning
+**Machine Learning Pipeline Collection**  
+Predictive modelling across finance, healthcare, and strategy datasets.  
+https://github.com/tendai-codes/Machine-learning
 
 ---
 
@@ -68,46 +28,40 @@ Focus areas:
 
 **Languages**
 
-Python  
-R  
-JavaScript
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-**Core Libraries**
+**Statistical Computing**
 
-NumPy  
-Pandas  
-NumPy  
-SciPy.linalg  
-SymPy 
-scikit-learn  
-TensorFlow  
-Keras  
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat&logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-003366?style=flat)
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat)
 
-**Mathematics**
+**Linear Algebra & Numerical Methods**
 
-Linear algebra  
-Statistical modelling  
-Numerical simulation  
-Optimisation methods  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
 **Visualisation**
 
-Matplotlib 
-Plotly
-Seaborn   
-Tableau
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
 
-## Research Direction
+## Research Interests
 
-Current interests include:
-
-- graph-based transport modelling
-- deterministic approximations of biological signalling
-- numerical methods for structured systems
-- interpretable machine learning
-- spatial-temporal dependency modelling
+Graph-based transport modelling  
+Regenerative signalling systems  
+Statistical learning and numerical methods  
+Interpretable machine learning
 
 ---
 
